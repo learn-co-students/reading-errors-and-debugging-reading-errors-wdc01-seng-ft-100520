@@ -1,3 +1,4 @@
-"hello world"
+name = "hello world"
+puts name
 
-hello_world
+name
